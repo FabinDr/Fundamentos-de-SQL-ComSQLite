@@ -159,7 +159,7 @@ Em seguida, podemos criar o modelo conceitual
 
 ---
 REFERÊNCIAS:
-https://www.alura.com.br/artigos/modelagem-de-dados
+https://www.alura.com.br/artigos/modelagem-de- /n
 https://www.alura.com.br/artigos/mer-e-der-funcoes
 https://youtu.be/xN7B-_9YqAE?si=eYfY0BiqtqKAxJkg
 https://youtu.be/W2Z1STnjNJo?si=hPZ7qU4ok9DlLoL_
