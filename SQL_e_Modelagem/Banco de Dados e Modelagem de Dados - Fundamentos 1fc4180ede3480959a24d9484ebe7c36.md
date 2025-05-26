@@ -1,8 +1,5 @@
 # Banco de Dados e Modelagem de Dados - Fundamentos
 
-Criado em: 23 de maio de 2025 08:35
-Última edição: 26 de maio de 2025 08:42
-
 ## **O que é banco de dados?**
 
 Um banco de dados é um sistema de armazenamento de informações que permite a coleta, o armazenamento, a recuperação e a manipulação de dados de maneira estruturada e eficiente.
