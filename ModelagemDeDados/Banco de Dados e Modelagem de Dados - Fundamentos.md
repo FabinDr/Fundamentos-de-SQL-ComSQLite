@@ -1,6 +1,6 @@
 # Banco de Dados e Modelagem de Dados - Fundamentos
 
-## **O que é banco de dados?**
+## **O que é um banco de dados?**
 
 Um banco de dados é um sistema de armazenamento de informações que permite a coleta, o armazenamento, a recuperação e a manipulação de dados de maneira estruturada e eficiente.
 
@@ -158,8 +158,8 @@ Com base nessas informações, pode-se então começar a criar diagramas e model
 Em seguida, podemos criar o modelo conceitual
 
 ---
-REFERÊNCIAS:
-https://www.alura.com.br/artigos/modelagem-de- /n
-https://www.alura.com.br/artigos/mer-e-der-funcoes
-https://youtu.be/xN7B-_9YqAE?si=eYfY0BiqtqKAxJkg
-https://youtu.be/W2Z1STnjNJo?si=hPZ7qU4ok9DlLoL_
+REFERÊNCIAS: <br/>
+https://www.alura.com.br/artigos/modelagem-de- <br />
+https://www.alura.com.br/artigos/mer-e-der-funcoes <br />
+https://youtu.be/xN7B-_9YqAE?si=dcn_n_lVyyWWbOik <br />
+https://youtu.be/W2Z1STnjNJo?si=S1_KBazMNqZknqbS
