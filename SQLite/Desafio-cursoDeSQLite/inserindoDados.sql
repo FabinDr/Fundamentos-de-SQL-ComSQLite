@@ -19,14 +19,16 @@ VALUES
 ('17', 'Vinícius Santos', '2003-07-28', 'Masculino', 'Avenida da Amizade, 123', '(11) 8901-2345', 'vinicius@email.com'),
 ('18', 'Juliana Pereira', '2006-09-01', 'Feminino', 'Rua das Rosas, 789', '(11) 3456-7890', 'juliana@email.com');
 
-INSERT INTO Professores ('ID_Professor','Nome_Professor','Data_Nascimento','Genero','Telefone_Contato','Email_Professor') VALUES 
+INSERT INTO Professores (ID_Professor , Nome_Professor , Data_Nascimento , Genero , Telefone_Contato , Email_Professor)
+VALUES 
  ('1','Ana Oliveira','1980-05-25','Feminino','(11) 1234-5678','ana@email.com'), 
  ('2','Carlos Ferreira','1975-09-12','Masculino','(11) 2345-6789','carlos@email.com'), 
  ('3','Mariana Santos','1982-03-15','Feminino','(11) 3456-7890','mariana@email.com'), 
  ('4','Ricardo Silva','1978-08-20','Masculino','(11) 7890-1234','ricardo@email.com'), 
  ('5','Fernanda Lima','1985-01-30','Feminino','(11) 4567-8901','fernanda@email.com');
 
- INSERT INTO Disciplinas ('ID_Disciplina','Nome_Disciplina','Descricao','Carga_Horaria','ID_Professor') VALUES 
+ INSERT INTO Disciplinas (ID_Disciplina , Nome_Disciplina , Descricao , Carga_Horaria , ID_Professor) 
+ VALUES 
  ('1','Matemática','Estudo de conceitos matemáticos avançados','60','1'), 
  ('2','História','História mundial e local','45','2'), 
  ('3','Física','Princípios fundamentais da física','60','1'), 
@@ -34,7 +36,8 @@ INSERT INTO Professores ('ID_Professor','Nome_Professor','Data_Nascimento','Gene
  ('5','Inglês','Aulas de inglês para iniciantes','45','4'), 
  ('6','Artes','Exploração da criatividade artística','30','5');
 
- INSERT INTO Turmas ('ID_Turma','Nome_Turma','Ano_Letivo','ID_Professor_Orientador') VALUES 
+ INSERT INTO Turmas (ID_Turma , Nome_Turma , Ano_Letivo , ID_Professor_Orientador) 
+ VALUES 
  ('1','Turma A','2023','1'), 
  ('2','Turma B','2023','2'), 
  ('3','Turma C','2023','3'), 
@@ -68,14 +71,15 @@ VALUES
  ('4','9'), 
  ('5','10');
  
-INSERT INTO Notas (ID_Nota, ID_Aluno,ID_Disciplina,Nota,Data_Avaliacao) VALUES 
+INSERT INTO Notas (ID_Nota, ID_Aluno,ID_Disciplina,Nota,Data_Avaliacao) 
+VALUES 
 ('2','1','1','6.19','07/07/2023'),
 ('3','1','2','7.18','07/07/2023'),
 ('4','1','3','7.47','07/07/2023'),
 ('5','1','4','7.46','07/07/2023'),
 ('6','1','5','4.35','07/07/2023'),
-('7','1','6','4.43','07/07/2023'),
 ('8','1','7','0.76','07/07/2023'),
+('7','1','6','4.43','07/07/2023'),
 ('9','1','8','9.22','07/07/2023'),
 ('10','1','9','9.04','07/07/2023'),
 ('11','1','10','3.28','07/07/2023'),
